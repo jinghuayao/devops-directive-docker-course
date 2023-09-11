@@ -24,3 +24,4 @@ Commands:
   tag         Create a tag TARGET_IMAGE that refers to SOURCE_IMAGE
 
 Run 'docker image COMMAND --help' for more information on a command.
+```
